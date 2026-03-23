@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include<cstdlib>
 using namespace std;
 const int SIZE = 10;
 void bubble_sort(int* arr){
